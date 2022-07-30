@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sakayaraj2000
 - 👀 I’m interested in PHP, CodeIgniter and WebApps
-- 🌱 I’m currently learning PHP, CodeIgniter and to developoe WebApps
+- 🌱 I’m currently learning PHP, CodeIgniter and to develope WebApps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
